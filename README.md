@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Java Developer** and **Tech Enthusiast** from India 🇮🇳, dedicated to creating innovative solutions and building scalable applications. I love exploring new technologies and sharing knowledge with the developer community.
+I'm **Dipak Kurmi**, a passionate **Java Developer** and **Tech Enthusiast** from India 🇮🇳, dedicated to creating innovative solutions and building scalable applications. I love exploring new technologies and sharing knowledge with the developer community.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -103,8 +103,8 @@ I'm a passionate **Java Developer** and **Tech Enthusiast** from India 🇮🇳,
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-kurmi-cse/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@coderdipak](https://www.youtube.com/@dipak.k5869))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurmideepak7@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coderdipak)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurmideepak@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurmideepak)
 
 </div>
