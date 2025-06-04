@@ -144,7 +144,7 @@ Currently exploring **Spring Boot, Microservices, and Cloud Technologies**, and 
 
 ## 📄 Download My Resume
 
-[📄 Download Resume](https://github.com/kurmideepak/kurmideepak/blob/main/Dipak_Kurmi_Resume.pdf) *(Upload your PDF resume to your repository and update this link!)*
+[📄 Download Resume](https://github.com/kurmideepak/kurmideepak/blob/main/Resume_Dipak_Kurmi_SDE.pdf) 
 
 ---
 
