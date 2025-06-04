@@ -16,7 +16,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a passionate **Computer Science student** and **Full Stack Java Developer** from India 🇮🇳, dedicated to building practical and user-friendly web applications. I specialize in creating real-time applications and scalable systems using modern technologies.
+I'm **Dipak Kurmi**, a passionate **Computer Science student** and **Full Stack Java Developer** from India 🇮🇳, dedicated to building practical and user-friendly web applications.  
+I enjoy solving real-world problems and have hands-on experience developing real-time chat platforms, hotel management systems, and learning management systems.  
+Currently exploring **Spring Boot, Microservices, and Cloud Technologies**, and always looking for opportunities to learn and collaborate.
 
 ### 🎯 **Current Focus:**
 - 🔭 Building **Real-Time Chat Applications** with WebSocket
@@ -32,11 +34,34 @@ I'm a passionate **Computer Science student** and **Full Stack Java Developer** 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Certifications & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurmideepak&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
+
+| 🎓 **Certification** | 🏢 **Issuer** | 📅 **Date** | 🔗 **Verify** |
+|:---------------------|:--------------|:-------------|:-------------|
+| Java FullStack Developer Specialization | Board Infinity (Coursera) | April 2025 | [Verify](https://coursera.org/verify/specialization/YU09OE2Y08FQ) |
+| Linux Fundamentals | LearnQuest (Coursera) | March 2023 | [Verify](https://coursera.org/verify/MT73E8FYDD89) |
+| Effective Problem-Solving & Decision-Making | UC Irvine (Coursera) | December 2022 | [Verify](https://coursera.org/verify/567MDGBEF3L4) |
+| Java Database Connectivity (JDBC) | LearnQuest (Coursera) | 2023 | [Verify](https://coursera.org/verify/OVPU39F1I8E5) |
+
 </div>
+
+---
+
+## 💻 Academic Projects
+
+### 💬 Real-Time Chat Platform
+- **Tech Stack:** Spring Boot, React, WebSocket, Tailwind CSS
+- Built a messaging app with instant communication, session management, and RESTful APIs.
+
+### 🏨 Hotel Management System
+- **Tech Stack:** Java, JDBC, MySQL
+- Developed a system with booking, billing, and room management; optimized SQL queries for efficiency.
+
+### 📚 Learning Management System
+- **Tech Stack:** HTML, CSS, JavaScript, MongoDB
+- Created a responsive LMS with CRUD operations, user and course management, and progress tracking.
 
 ---
 
@@ -95,41 +120,6 @@ I'm a passionate **Computer Science student** and **Full Stack Java Developer** 
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 💬 **Real-Time Chat Platform**
-[![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=kurmideepak&repo=real-time-chat-app&theme=radical&hide_border=true)](https://github.com/kurmideepak/real-time-chat-app)
-
-**Tech Stack:** Spring Boot | React | WebSocket | Tailwind CSS
-- 🚀 Built instant messaging with WebSocket technology
-- ⚡ React Context API for state management
-- 🔐 Authentication & message history features
-- 📱 Responsive UI with toast notifications
-
-### 🏨 **Hotel Management System**
-[![Hotel Management](https://github-readme-stats.vercel.app/api/pin/?username=kurmideepak&repo=hotel-management-system&theme=radical&hide_border=true)](https://github.com/kurmideepak/hotel-management-system)
-
-**Tech Stack:** Java | JDBC | MySQL
-- 🏨 Complete hotel operations management
-- 💳 Booking, billing & room management
-- 🔒 Secure real-time data transactions
-- ⚡ Optimized SQL queries for performance
-
-### 📚 **Learning Management System**
-[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=kurmideepak&repo=learning-management-system&theme=radical&hide_border=true)](https://github.com/kurmideepak/learning-management-system)
-
-**Tech Stack:** HTML | CSS | JavaScript | MongoDB
-- 📖 User & course management platform
-- 📊 Progress tracking system
-- 🔄 CRUD operations with MongoDB
-- 💡 Intuitive and responsive interface
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -138,17 +128,30 @@ I'm a passionate **Computer Science student** and **Full Stack Java Developer** 
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-| 🎓 **Certification** | 🏢 **Issuer** | 📅 **Date** |
-|:---------------------|:--------------|:-------------|
-| Java FullStack Developer Specialization | Board Infinity (Coursera) | April 2025 |
-| Linux Fundamentals | LearnQuest (Coursera) | March 2023 |
-| Effective Problem-Solving & Decision-Making | UC Irvine (Coursera) | December 2022 |
-| Java Database Connectivity (JDBC) | LearnQuest (Coursera) | 2023 |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-kurmi-cse/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coderdipak)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurmideepak7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurmideepak)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916392955975)
 
+</div>
+
+---
+
+## 📄 Download My Resume
+
+[📄 Download Resume](https://github.com/kurmideepak/kurmideepak/blob/main/Dipak_Kurmi_Resume.pdf) *(Upload your PDF resume to your repository and update this link!)*
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -165,48 +168,8 @@ I'm a passionate **Computer Science student** and **Full Stack Java Developer** 
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-kurmi-cse/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coderdipak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurmideepak7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurmideepak)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916392955975)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🎯 Current Goals
-
 <div align="center">
 
-```javascript
-const dipakKurmi = {
-    currentFocus: ["Real-Time Applications", "Microservices", "System Design"],
-    learning: ["Spring Cloud", "Docker", "AWS", "Advanced React Patterns"],
-    lookingFor: ["Open Source Contributions", "Full Stack Opportunities"],
-    challenge: "Building scalable applications that solve real-world problems",
-    motto: "Code with purpose, build with passion! 🚀"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-  
 ### 💻 "Passionate about Java, committed to building the future!" 🚀
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Wave" />
